@@ -11,3 +11,4 @@ The was:// protocol is designed to handle .wasi .wasm files
 
 ## Current work
 We need to create tutorials for GraalVM, node-graal, nodejs, nwjs, wasmer, wasmtime
+- was-sys https://rustwasm.github.io/wasm-bindgen/examples/dom.html
